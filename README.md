@@ -28,7 +28,7 @@ Clone the repository and install requirements:
 Create a file that named settings_local.py
 Configure the database and secret key.
 
-    cd dbpatterns/web/dbpatterns
+    cd dbpatterns/web/dbpatterns/dbpatterns
     vim settings_local.py
 
 The example of configuration:
