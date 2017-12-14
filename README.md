@@ -50,6 +50,7 @@ And run the following commands:
 
     cd ../
     python manage.py syncdb
+	python manage.py migrate
     python manage.py runserver
 
 That's all. You can access to dbpatterns from http://127.0.0.1:8000
